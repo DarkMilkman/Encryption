@@ -1,0 +1,35 @@
+Ryan N Sobczak
+Burlington, VT 05401
+716-598-7799 | sobczak.ryan@yahoo.com 
+An educated and dedicated programmer. Studied numerous types of game programming, and follows coding standards. Able to analyze and solve problems. Is adaptable to work alone or with other dedicated people.
+EDUCATION
+Champlain College, Burlington, VT Anticipated  Graduation May 2017
+Bachelor of Science in Game Programming
+Declared Math Minor
+GPA 3.11
+Phi Theta Kappa
+Former Captain, Quidditch Team
+Niagara County Community College, Sanborn, NY Sept 2011   
+Associates Degree of Applied Science in Computer Science
+GPA 3.78
+Phi Theta Kappa
+Dean's List
+Relevant Coursework: Graphics/Game Engine Programming, Graphics/Game Engine Programming II , Data Structures, Game Architecture, Game Production, Game Production 2, AI Programming, Network Programming, Linux programming, Database Management Systems, Linear Algebra 
+Programming Software: Visual Studio, Flash Develop, Eclipse, Unity, Unreal
+Version Control Software: TortoiseSVN, Git, Mercurial 
+Software Development Tools: CMake
+Programming Languages: C++, C, C#, ActionScript 3
+WORK EXPERIENCE
+Koby Environmental Inc., Clarence Center, NY Sept 2012 - Present
+Machinist
+Making and shipping Torquer Plugs
+IT tech support, including installing surveillance cameras and a HD DVR
+LIST OF GAMES
+Pokemon Clone, Solo project, turn based, C# 
+Feline Astronaut, Solo project, 2D platformer, AS3
+Snake Clone, Solo project, snake, C++ and Allegro 
+Untitled roguelike game, Team of 2 project, platformer/roguelike elements, C++ and SFML
+Beat of the flames, Team of 5, rhythm/educational, AS3
+Half-Moon Helix, Team of 6, ball roller/platformer mobile game, AS3, Flashpunk
+Hockey Break, Team of 2, pong/breakout mix with networking, C++, SFML, RakNet and CMake
+Glitched!, Team of 5, 2.5D  platformer, Unity and C#

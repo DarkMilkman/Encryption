@@ -133,7 +133,7 @@ int main(int argc, char* argv[])
 				cout << "Enter in The Name and extension of the file you want to encrypt/decrypt:";
 				getline(cin, readInFile);
 
-				string fileName = "..\\Debug\\" + readInFile;
+				string fileName = readInFile; //"..\\Debug\\" + readInFile;
 				//string fileName = "..\\Release\\" + readInFile;
 
 				ifstream file(fileName);
@@ -328,7 +328,7 @@ int main(int argc, char* argv[])
 		{
 			cout << "is written to " << writeToFile;
 
-			string fileName = "..\\Debug\\" + writeToFile;
+			string fileName = writeToFile; //"..\\Debug\\" + writeToFile;
 			//string fileName = "..\\Release\\" + writeToFile;
 
 			ofstream output(fileName);

@@ -12,6 +12,9 @@ tested with
 Not work with
 	-.docx 
 	-.rtf
+	
+Warning:
+	For the file to be found it has to be in the same folder as the .exe
 
 Warning:
 	-Sometimes when a single quote is copied, it isn't a single quote that is recognized.

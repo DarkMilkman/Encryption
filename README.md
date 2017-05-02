@@ -14,7 +14,10 @@ Not work with
 	-.rtf
 	
 Warning:
-	For the file to be found it has to be in the same folder as the .exe
+	For the file to be found it either 
+	 -has to be in the same folder as the .exe
+	 -or give the full file path of the file 
+	
 
 Warning:
 	-Sometimes when a single quote is copied, it isn't a single quote that is recognized.

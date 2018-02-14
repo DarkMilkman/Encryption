@@ -16,7 +16,7 @@ Not work with
 	
 Warning:
 	For the file to be found it either 
-	 -has to be in the same folder as the .exe
+	 -has to be in the same folder as the .exe after you build the solution 
 	 -or give the full file path of the file
 	 -to give it the full fle path you have to use a double backslash to go into a folder
 	 -EX: D:\\WordDocuments\\text.txt
